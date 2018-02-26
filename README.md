@@ -19,7 +19,7 @@ Problems contain both the test skeleton (`ProblemName.java`) given to teams and 
 Secret test inputs and matching outputs that were run through PC2 during the actual competition.  We note that a few problems were graded mostly manually - specifically P2, P5, and P6, due to some issues with diffing their outputs.
 
 ## Acknowledgments
-###Problem Creators, Solution Fixers, and Judges:
+### Problem Creators, Solution Fixers, and Judges:
 
 * [Ahmed Abdelkader](http://www.cs.umd.edu/~akader/)
 * [John P Dickerson](http://jpdickerson.com/)
@@ -27,7 +27,7 @@ Secret test inputs and matching outputs that were run through PC2 during the act
 * [Evan Golub](http://www.cs.umd.edu/~egolub/professional.shtml)
 * [Dave Mount](https://www.cs.umd.edu/users/mount/)
 
-###Motivation for some of the Problems:
+### Motivation for some of the Problems:
 
 * [Benelux Algorithm Programming Contest Leiden](http://2010.bapc.eu/)
 * [University of Saskatchewan Programming Contest](http://programmingcontest.usask.ca/)
